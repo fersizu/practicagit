@@ -10,5 +10,17 @@ body {
 h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+p{
+    width: 10px, 10px, 10px;
+    text-align: center;
+    margin: 100px;
+}
 
+h2{
+    text-align: center;
+}
 
+.container{
+    text-align: center;
+
+}
